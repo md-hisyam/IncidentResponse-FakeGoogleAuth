@@ -62,10 +62,9 @@ The investigation focuses on identifying the infected Windows host, analyzing su
 │   └── 📄 Malware_Incident_Response_Report.pdf
 │
 └── 📁 evidence
-    ├── 🖼️ wireshark-conversations.png
-    ├── 🖼️ suspicious-http-requests.png
-    ├── 🖼️ powershell-payload-analysis.png
-    └── 🖼️ ioc-threat-intelligence.png
+     ├── 📄 Wireshark.md
+     ├── 📄 Virustotal.md
+     └── 📄 AbuseIP.md
 
 
 ```
