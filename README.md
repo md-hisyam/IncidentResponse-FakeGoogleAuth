@@ -17,9 +17,7 @@
 
 ## 📌 Overview
 
-This project documents a malware traffic analysis and incident response investigation based on a PCAP file from [Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/2025/01/22/index.html).
-
-The investigation focuses on identifying the infected Windows host, analyzing suspicious network communications, recovering an embedded PowerShell payload, identifying potential Command and Control (C2) infrastructure, and documenting Indicators of Compromise (IOCs).
+This project documents a malware traffic analysis and incident response focuses on identifying the infected Windows host, analyzing suspicious network communications, recovering an embedded PowerShell payload, identifying potential Command and Control (C2) infrastructure, and documenting Indicators of Compromise (IOCs).
 
 ## 🎯 Investigation Objectives
 
@@ -97,7 +95,7 @@ Screenshots and supporting evidence from the investigation:
 
 **Original Investigation Scenario & PCAP Resources**
 
-[Malware Traffic Analysis – 22 January 2025](https://www.malware-traffic-analysis.net/2025/01/22/index.html)
+[Malware Traffic – 22 January 2025]([https://www.malware-traffic-analysis.net/2025/01/22/index.html](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-01-22-IOCs-for-malware-from-fake-Microsoft-Teams-site.txt))
 
 ## ⚠️ Disclaimer
 
