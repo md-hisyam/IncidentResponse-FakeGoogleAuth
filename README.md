@@ -75,10 +75,10 @@ Screenshots and supporting evidence from the investigation:
 
 | Evidence | Description |
 |:---|:---|
-| Wireshark Conversations | Identification of suspicious external IP addresses |
-| HTTP Requests | Analysis of suspicious HTTP communications |
+| Wireshark | Identification of suspicious external IP addresses |
 | PowerShell Payload | Recovery and static analysis of the embedded script |
-| Threat Intelligence | Reputation checks using VirusTotal and AbuseIPDB |
+| Abuse IP | Reputation checks using AbuseIPDB |
+| Virustotal | Reputation checks using Virustotal|
 
 ## 🧠 Skills Demonstrated
 
