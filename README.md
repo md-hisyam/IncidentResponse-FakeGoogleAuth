@@ -53,7 +53,7 @@ The investigation focuses on identifying the infected Windows host, analyzing su
 ## 📂 Repository Structure
 
 ```text
-📁 malware-traffic-analysis-incident-response
+📁 IncidentResponse-FakeGoogleAuth
 │
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -68,12 +68,8 @@ The investigation focuses on identifying the infected Windows host, analyzing su
 │   ├── 🖼️ powershell-payload-analysis.png
 │   └── 🖼️ ioc-threat-intelligence.png
 │
-├── 📁 artifacts
-│   ├── 📄 recovered-powershell-script.txt
-│   └── 📄 indicators-of-compromise.csv
-│
-└── 📁 references
-    └── 📄 threat-intelligence-sources.md
+└── 📁 artifacts
+
 ```
 
 ## 🖥️ Investigation Evidence
