@@ -95,7 +95,7 @@ Screenshots and supporting evidence from the investigation:
 
 **Original Investigation Scenario & PCAP Resources**
 
-[Malware Traffic – 22 January 2025]([https://www.malware-traffic-analysis.net/2025/01/22/index.html](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-01-22-IOCs-for-malware-from-fake-Microsoft-Teams-site.txt))
+[Malware Traffic Analysis Palo Alto Unit 42 – 22 January 2025] ([2025-01-22-IOCs-for-malware-from-fake-Microsoft-Teams](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-01-22-IOCs-for-malware-from-fake-Microsoft-Teams-site.txt))
 
 ## ⚠️ Disclaimer
 
